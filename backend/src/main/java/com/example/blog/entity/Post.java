@@ -29,7 +29,7 @@ public class Post {
     private Instant createdOn;
 
     private Instant updatedOn;
-    
+
     @NotBlank
     private String username;
 
